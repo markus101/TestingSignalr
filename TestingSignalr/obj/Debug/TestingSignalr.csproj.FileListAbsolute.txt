@@ -1,0 +1,13 @@
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\TestingSignalr.dll
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\TestingSignalr.pdb
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\EntityFramework.dll
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\Newtonsoft.Json.dll
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\SignalR.dll
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\SignalR.Hosting.AspNet.dll
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\EntityFramework.xml
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\Newtonsoft.Json.pdb
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\bin\Newtonsoft.Json.xml
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\obj\Debug\TestingSignalr.csprojResolveAssemblyReference.cache
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\obj\Debug\TestingSignalr.dll
+C:\Users\mark.mcdowall\Dropbox\Visual Studio 2010\TestingSignalr\TestingSignalr\obj\Debug\TestingSignalr.pdb
